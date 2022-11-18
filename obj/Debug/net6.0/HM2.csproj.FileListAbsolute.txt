@@ -1,0 +1,15 @@
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.csproj.AssemblyReference.cache
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.AssemblyInfoInputs.cache
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.AssemblyInfo.cs
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.csproj.CoreCompileInputs.cache
+/Users/arl/homework/HM2/bin/Debug/net6.0/HM2
+/Users/arl/homework/HM2/bin/Debug/net6.0/HM2.deps.json
+/Users/arl/homework/HM2/bin/Debug/net6.0/HM2.runtimeconfig.json
+/Users/arl/homework/HM2/bin/Debug/net6.0/HM2.dll
+/Users/arl/homework/HM2/bin/Debug/net6.0/HM2.pdb
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.dll
+/Users/arl/homework/HM2/obj/Debug/net6.0/refint/HM2.dll
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.pdb
+/Users/arl/homework/HM2/obj/Debug/net6.0/HM2.genruntimeconfig.cache
+/Users/arl/homework/HM2/obj/Debug/net6.0/ref/HM2.dll
